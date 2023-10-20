@@ -39,6 +39,8 @@ body {
     height: 100%;
     background-color: red;
     color: white;
+    border-radius: 50px; /* arredonda os as bordas do objeto */
+    text-align: center;
 }
 
 p {
